@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/sabalaxvl" target="blank"><img src="https://img.shields.io/twitter/follow/sabalaxvl?logo=twitter&style=for-the-badge" alt="sabalaxvl" /></a> </p>
 
 
-- 🌱 I’m currently learning **C++ , JavaScript, React**
+- 🌱 I’m currently learning **C++ , JavaScript, Java**
 
 - 👨‍💻 All of my projects are available at [sabalax.ml](sabalax.ml)
 
