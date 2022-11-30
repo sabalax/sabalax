@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sametgrtna@gmail.com**
 
-- ⚡ Fun fact **I'm esports player and also making my own computer games**
+- ⚡ More info about me **I'm esports player and also making my own computer games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
